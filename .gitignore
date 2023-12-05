@@ -1,0 +1,6 @@
+video/*
+images/users/*
+!images/users/background/
+images/users/background/*
+!images/users/unknow.png
+

@@ -1,0 +1,6 @@
+#RewriteEngine on
+#Redirect 301 /index.php https://192.168.10.31/maintenance.php
+#Redirect 301 /perfil.php https://192.168.10.31/maintenance.php
+#Redirect 301 /timeline.php https://192.168.10.31/maintenance.php
+#Redirect 301 /login.php https://192.168.10.31/maintenance.php
+#Redirect 301 /lock-screen.php https://192.168.10.31/maintenance.php
